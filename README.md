@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bhavyafattania05@gmail.com**
 
-- ⚡ Fun fact **I AM BATMAN**
+- ⚡ Fun fact **You have never seen Batman and Me in same room**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
