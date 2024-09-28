@@ -113,27 +113,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/BhavyaFattania/BhavyaFattania/snake.svg" alt="Snake animation" />
-
-###
-
-
-###
-
-<div align="center">
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/BhavyaFattania/BhavyaFattania/snake.svg" alt="Snake animation" />
-
-
 
 
 
