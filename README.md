@@ -106,7 +106,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/BhavyaFattania/BhavyaFattania/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/BhavyaFattania/BhavyaFattania/main/snake.svg" alt="Snake animation" />
 
 ###
 
